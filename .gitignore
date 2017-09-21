@@ -1,0 +1,18 @@
+
+
+packages/*
+
+*.iml
+.idea
+*.class
+*.classpath*
+*.classpath
+*.metadata*
+*.settings*
+.project
+# Build results
+[Tt]arget/
+[Bb]in/
+RemoteSystemsTempFiles/
+javadoc/
+*.checkstyle
